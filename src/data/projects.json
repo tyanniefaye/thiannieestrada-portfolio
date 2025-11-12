@@ -1,0 +1,59 @@
+
+  [
+    {
+      "title": "E-commerce API Documentation",
+      "image": "/images/ecommerce3.jpg",
+      "alt": "E-commerce API",
+      "link": "https://documenter.getpostman.com/view/49213711/2sB3Wjx2vs",
+      "description": "Dynamic E-Commerce Workflow Management. The system features dynamic routes for order processing, real-time inventory updates, and secure user authentication. It also supports seamless automated order reporting and comprehensive product management. Documented Backend API published publicly using Postman."
+    },
+    {
+      "title": "Course Booking API Documentation",
+      "image": "/images/coursebooking.jpg",
+      "alt": "Course Booking API",
+      "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activation, and student enrollment. Publicly documented using Postman."
+    },
+    {
+      "title": "Course Booking App",
+      "image": "/images/coursebookingapp.jpg",
+      "alt": "Course Booking App",
+      "description": "A MERN-stack course enrollment system featuring user registration, authentication, and profile management. Authenticated users can create, update, archive, and activate courses. The platform also allows users to browse available courses and enroll seamlessly."
+    },
+    {
+      "title": "E-commerce App",
+      "image": "/images/ecommerceapp.png",
+      "alt": "E-commerce App",
+      "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cart updates, secure checkout, and a comprehensive admin dashboard with real-time analytics and user management capabilities."
+    },
+    {
+      "title": "Airline Booking System Mockup",
+      "image": "/images/airlinebookingmockup.png",
+      "alt": "Airline Booking Mockup",
+      "description": "Side Project: Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency."
+    },
+    {
+      "title": "Airline Booking System Prototype",
+      "image": "/images/airlinebookingsystem.jpg",
+      "alt": "Airline Booking Prototype",
+      "description": "Side Project: Interactive prototype simulating end-to-end airline booking functionalities, including flight search, reservation, payment processing, and real-time ticket management."
+    },
+    {
+      "title": "Short Courses Capstone 1",
+      "image": "/images/shortcoursecapstone.jpg",
+      "alt": "Short Courses Capstone",
+      "description": "Placeholder for your Short courses capstone project."
+    },
+    {
+      "title": "Short Courses Capstone 2",
+      "image": "/images/shortcoursecapstone.jpg",
+      "alt": "Short Courses Capstone",
+      "description": "Placeholder for your Short courses capstone project."
+    },
+    {
+      "title": "Short Courses Capstone 3",
+      "image": "/images/shortcoursecapstone.jpg",
+      "alt": "Short Courses Capstone",
+      "description": "Placeholder for your Short courses capstone project."
+    }
+  ]
+
